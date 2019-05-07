@@ -4,6 +4,8 @@ import ReactDOM from 'react-dom'
 import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 
 import 'bulma'
+import './style.scss'
+
 
 import PhotosIndex from './components/PhotosIndex'
 // import PhotoCard from './components/PhotoCard'
