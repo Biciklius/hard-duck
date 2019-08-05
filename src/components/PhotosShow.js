@@ -22,7 +22,6 @@ class PhotosShow extends React.Component {
     return(
       <section className="surround section is-hero">
         <div className="container photopage">
-
           <button className="button" onClick={this.handleSubmit}>back</button>
           <hr />
           <h2 className="photographer is-size-10">{photo.user.name}</h2>

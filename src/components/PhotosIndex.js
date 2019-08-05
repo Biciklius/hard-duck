@@ -71,7 +71,7 @@ class PhotosIndex extends React.Component {
 
         <div className="section columns nav is-vcentered">
           <div>
-            <img className="duck"src="src/images/duck.png"/>
+            <img className="duck"src="images/duck.png"/>
           </div>
           <div className="column is-two-thirds"><h1 className="title is-1 naslov">HARD DUCK</h1>
           </div>
